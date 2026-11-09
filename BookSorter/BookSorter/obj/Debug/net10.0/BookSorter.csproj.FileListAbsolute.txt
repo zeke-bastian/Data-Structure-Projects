@@ -1,0 +1,15 @@
+C:\Users\zekus\OneDrive - Eduvos\ThirdYear4thBlock\DCA\BookSorter\BookSorter\obj\Debug\net10.0\BookSorter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zekus\OneDrive - Eduvos\ThirdYear4thBlock\DCA\BookSorter\BookSorter\obj\Debug\net10.0\BookSorter.AssemblyInfoInputs.cache
+C:\Users\zekus\OneDrive - Eduvos\ThirdYear4thBlock\DCA\BookSorter\BookSorter\obj\Debug\net10.0\BookSorter.AssemblyInfo.cs
+C:\Users\zekus\OneDrive - Eduvos\ThirdYear4thBlock\DCA\BookSorter\BookSorter\obj\Debug\net10.0\BookSorter.csproj.CoreCompileInputs.cache
+C:\Users\zekus\OneDrive - Eduvos\ThirdYear4thBlock\DCA\BookSorter\BookSorter\bin\Debug\net10.0\BookSorter.exe
+C:\Users\zekus\OneDrive - Eduvos\ThirdYear4thBlock\DCA\BookSorter\BookSorter\bin\Debug\net10.0\BookSorter.deps.json
+C:\Users\zekus\OneDrive - Eduvos\ThirdYear4thBlock\DCA\BookSorter\BookSorter\bin\Debug\net10.0\BookSorter.runtimeconfig.json
+C:\Users\zekus\OneDrive - Eduvos\ThirdYear4thBlock\DCA\BookSorter\BookSorter\bin\Debug\net10.0\BookSorter.dll
+C:\Users\zekus\OneDrive - Eduvos\ThirdYear4thBlock\DCA\BookSorter\BookSorter\bin\Debug\net10.0\BookSorter.pdb
+C:\Users\zekus\OneDrive - Eduvos\ThirdYear4thBlock\DCA\BookSorter\BookSorter\obj\Debug\net10.0\BookSorter.dll
+C:\Users\zekus\OneDrive - Eduvos\ThirdYear4thBlock\DCA\BookSorter\BookSorter\obj\Debug\net10.0\refint\BookSorter.dll
+C:\Users\zekus\OneDrive - Eduvos\ThirdYear4thBlock\DCA\BookSorter\BookSorter\obj\Debug\net10.0\BookSorter.pdb
+C:\Users\zekus\OneDrive - Eduvos\ThirdYear4thBlock\DCA\BookSorter\BookSorter\obj\Debug\net10.0\BookSorter.genruntimeconfig.cache
+C:\Users\zekus\OneDrive - Eduvos\ThirdYear4thBlock\DCA\BookSorter\BookSorter\obj\Debug\net10.0\ref\BookSorter.dll
+C:\Users\zekus\OneDrive - Eduvos\ThirdYear4thBlock\DCA\BookSorter\BookSorter\obj\Debug\net10.0\BookSorter.csproj.Up2Date

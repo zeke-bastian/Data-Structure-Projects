@@ -1,0 +1,15 @@
+C:\Users\zekus\OneDrive - Eduvos\ThirdYear4thBlock\DCA\BrowserHistoryBST\BrowserHistoryBST\bin\Debug\net10.0\BrowserHistoryBST.exe
+C:\Users\zekus\OneDrive - Eduvos\ThirdYear4thBlock\DCA\BrowserHistoryBST\BrowserHistoryBST\bin\Debug\net10.0\BrowserHistoryBST.deps.json
+C:\Users\zekus\OneDrive - Eduvos\ThirdYear4thBlock\DCA\BrowserHistoryBST\BrowserHistoryBST\bin\Debug\net10.0\BrowserHistoryBST.runtimeconfig.json
+C:\Users\zekus\OneDrive - Eduvos\ThirdYear4thBlock\DCA\BrowserHistoryBST\BrowserHistoryBST\bin\Debug\net10.0\BrowserHistoryBST.dll
+C:\Users\zekus\OneDrive - Eduvos\ThirdYear4thBlock\DCA\BrowserHistoryBST\BrowserHistoryBST\bin\Debug\net10.0\BrowserHistoryBST.pdb
+C:\Users\zekus\OneDrive - Eduvos\ThirdYear4thBlock\DCA\BrowserHistoryBST\BrowserHistoryBST\obj\Debug\net10.0\BrowserHistoryBST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zekus\OneDrive - Eduvos\ThirdYear4thBlock\DCA\BrowserHistoryBST\BrowserHistoryBST\obj\Debug\net10.0\BrowserHistoryBST.AssemblyInfoInputs.cache
+C:\Users\zekus\OneDrive - Eduvos\ThirdYear4thBlock\DCA\BrowserHistoryBST\BrowserHistoryBST\obj\Debug\net10.0\BrowserHistoryBST.AssemblyInfo.cs
+C:\Users\zekus\OneDrive - Eduvos\ThirdYear4thBlock\DCA\BrowserHistoryBST\BrowserHistoryBST\obj\Debug\net10.0\BrowserHistoryBST.csproj.CoreCompileInputs.cache
+C:\Users\zekus\OneDrive - Eduvos\ThirdYear4thBlock\DCA\BrowserHistoryBST\BrowserHistoryBST\obj\Debug\net10.0\BrowserHistoryBST.dll
+C:\Users\zekus\OneDrive - Eduvos\ThirdYear4thBlock\DCA\BrowserHistoryBST\BrowserHistoryBST\obj\Debug\net10.0\refint\BrowserHistoryBST.dll
+C:\Users\zekus\OneDrive - Eduvos\ThirdYear4thBlock\DCA\BrowserHistoryBST\BrowserHistoryBST\obj\Debug\net10.0\BrowserHistoryBST.pdb
+C:\Users\zekus\OneDrive - Eduvos\ThirdYear4thBlock\DCA\BrowserHistoryBST\BrowserHistoryBST\obj\Debug\net10.0\BrowserHistoryBST.genruntimeconfig.cache
+C:\Users\zekus\OneDrive - Eduvos\ThirdYear4thBlock\DCA\BrowserHistoryBST\BrowserHistoryBST\obj\Debug\net10.0\ref\BrowserHistoryBST.dll
+C:\Users\zekus\OneDrive - Eduvos\ThirdYear4thBlock\DCA\BrowserHistoryBST\BrowserHistoryBST\obj\Debug\net10.0\BrowserH.D242628F.Up2Date

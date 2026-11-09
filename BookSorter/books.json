@@ -1,0 +1,13 @@
+[
+  { "id": 0,  "title": "Dune",                           "author": "Frank Herbert",          "price": 249.50, "year_published": 1965 },
+  { "id": 1,  "title": "Dune Messiah",                   "author": "Frank Herbert",          "price": 199.99, "year_published": 1969 },
+  { "id": 2,  "title": "Piranesi",                       "author": "Susanna Clarke",         "price": 315.00, "year_published": 2020 },
+  { "id": 3,  "title": "Kafka on the Shore",             "author": "Haruki Murakami",        "price": 275.00, "year_published": 2002 },
+  { "id": 4,  "title": "Behave",                         "author": "Robert Sapolsky",        "price": 355.00, "year_published": 2017 },
+  { "id": 5,  "title": "The Myth of Sisyphus",           "author": "Albert Camus",           "price": 195.00, "year_published": 1942 },
+  { "id": 6,  "title": "1Q84",                           "author": "Haruki Murakami",        "price": 397.00, "year_published": 2009 },
+  { "id": 7,  "title": "1984",                           "author": "George Orwell",          "price": 139.99, "year_published": 1949 },
+  { "id": 8,  "title": "One Hundred Years of Solitude",  "author": "Gabriel García Márquez", "price": 235.00, "year_published": 1967 },
+  { "id": 9,  "title": "Gödel, Escher, Bach",            "author": "Douglas Hofstadter",     "price": 436.00, "year_published": 1979 },
+  { "id": 10, "title": "A Clash of Kings",               "author": "George R.R. Martin",     "price": 265.00, "year_published": 1998 }
+]

@@ -1,0 +1,15 @@
+C:\Users\zekus\OneDrive - Eduvos\ThirdYear4thBlock\DCA\BrowserHistory\BrowserHistory\bin\Debug\net10.0\BrowserHistory.exe
+C:\Users\zekus\OneDrive - Eduvos\ThirdYear4thBlock\DCA\BrowserHistory\BrowserHistory\bin\Debug\net10.0\BrowserHistory.deps.json
+C:\Users\zekus\OneDrive - Eduvos\ThirdYear4thBlock\DCA\BrowserHistory\BrowserHistory\bin\Debug\net10.0\BrowserHistory.runtimeconfig.json
+C:\Users\zekus\OneDrive - Eduvos\ThirdYear4thBlock\DCA\BrowserHistory\BrowserHistory\bin\Debug\net10.0\BrowserHistory.dll
+C:\Users\zekus\OneDrive - Eduvos\ThirdYear4thBlock\DCA\BrowserHistory\BrowserHistory\bin\Debug\net10.0\BrowserHistory.pdb
+C:\Users\zekus\OneDrive - Eduvos\ThirdYear4thBlock\DCA\BrowserHistory\BrowserHistory\obj\Debug\net10.0\BrowserHistory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zekus\OneDrive - Eduvos\ThirdYear4thBlock\DCA\BrowserHistory\BrowserHistory\obj\Debug\net10.0\BrowserHistory.AssemblyInfoInputs.cache
+C:\Users\zekus\OneDrive - Eduvos\ThirdYear4thBlock\DCA\BrowserHistory\BrowserHistory\obj\Debug\net10.0\BrowserHistory.AssemblyInfo.cs
+C:\Users\zekus\OneDrive - Eduvos\ThirdYear4thBlock\DCA\BrowserHistory\BrowserHistory\obj\Debug\net10.0\BrowserHistory.csproj.CoreCompileInputs.cache
+C:\Users\zekus\OneDrive - Eduvos\ThirdYear4thBlock\DCA\BrowserHistory\BrowserHistory\obj\Debug\net10.0\BrowserHistory.dll
+C:\Users\zekus\OneDrive - Eduvos\ThirdYear4thBlock\DCA\BrowserHistory\BrowserHistory\obj\Debug\net10.0\refint\BrowserHistory.dll
+C:\Users\zekus\OneDrive - Eduvos\ThirdYear4thBlock\DCA\BrowserHistory\BrowserHistory\obj\Debug\net10.0\BrowserHistory.pdb
+C:\Users\zekus\OneDrive - Eduvos\ThirdYear4thBlock\DCA\BrowserHistory\BrowserHistory\obj\Debug\net10.0\BrowserHistory.genruntimeconfig.cache
+C:\Users\zekus\OneDrive - Eduvos\ThirdYear4thBlock\DCA\BrowserHistory\BrowserHistory\obj\Debug\net10.0\ref\BrowserHistory.dll
+C:\Users\zekus\OneDrive - Eduvos\ThirdYear4thBlock\DCA\BrowserHistory\BrowserHistory\obj\Debug\net10.0\BrowserH.E6A52C66.Up2Date
